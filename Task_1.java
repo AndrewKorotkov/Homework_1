@@ -8,7 +8,6 @@ public class Task_1 {
         for (int i = 0; i < array.length; i++) {
             if (array[i] != n)
                 sum = sum + array[i];
-
         }
         System.out.println(sum);
     }
